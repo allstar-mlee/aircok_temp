@@ -1,0 +1,6 @@
+{
+  "name": "DefaultTable",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Components/DefaultTable.js"
+}
